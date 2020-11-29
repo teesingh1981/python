@@ -18,7 +18,7 @@ git checkout -b test-branch
 
 git checkout main
 
-# List and delete branch
+# List and delete a branch
 
 git branch -a
 
